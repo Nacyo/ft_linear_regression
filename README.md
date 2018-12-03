@@ -56,4 +56,3 @@ optional arguments:
 * https://en.wikipedia.org/wiki/Gradient_descent
 * https://towardsdatascience.com/linear-regression-from-scratch-cd0dee067f72
 * https://en.wikipedia.org/wiki/Coefficient_of_determination
-* https://towardsdatascience.com/linear-regression-from-scratch-cd0dee067f72
